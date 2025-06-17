@@ -12,6 +12,7 @@ public class Testing2Application {
 		int y =200;
 		char ch = 'x';
 		boolean isSubscribed = true;
+		char i = 'n';
 		SpringApplication.run(Testing2Application.class, args);
 	}
 
